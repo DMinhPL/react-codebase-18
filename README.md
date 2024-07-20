@@ -387,3 +387,6 @@ See more | [Be creative](http://www.emoji-cheat-sheet.com/)
 ## Generate Template
 -   Generate component: `yarn gen:component → select level → enter component's name`
 -   Generate page: `yarn gen:page → enter component's name`"# react-codebase-18" 
+
+## Node Verion required
+- > 18.x
